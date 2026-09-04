@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.suggest.suggestOnTriggerCharacters": true,
+    "terminal.integrated.suggest.quickSuggestions": {
+        "commands": "on"
+    }
+}
