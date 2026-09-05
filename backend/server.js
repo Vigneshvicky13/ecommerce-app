@@ -17,14 +17,7 @@ connectCloudinary()
 
 //middleswares
 app.use(express.json())
-app.use(cors({
-  origin: [
-    "https://forever-frontend-dniqiuvpg-vigneshvicky13s-projects.vercel.app",
-    "https://forever-admin.vercel.app" // replace with your actual admin URL if different
-  ],
-  methods: ["GET", "POST", "PUT", "DELETE"],
-  credentials: true
-}))
+app.use(cors())
 
 //api endpoints
 
