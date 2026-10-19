@@ -38,8 +38,8 @@ A full-stack e-commerce web application developed as a personal project to gain 
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_PROJECT_FOLDER
+git clone https://github.com/Vigneshvicky13/ecommerce-app
+cd ecommerce-app
 ```
 
 ### 2. Install dependencies
